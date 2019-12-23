@@ -1,0 +1,15 @@
+{
+  "name": "dictionary-tool-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "startup.js",
+  "scripts": {
+    "test": "node startup.js"
+  },
+  "author": "Rishikesh Arya",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0",
+    "underscore": "^1.9.1"
+  }
+}
